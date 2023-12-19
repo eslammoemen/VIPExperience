@@ -1,0 +1,72 @@
+PODS:
+  - Alamofire (5.8.1)
+  - CropViewController (2.6.1)
+  - DropDown (2.3.13)
+  - KDCircularProgress (1.5.4)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - KRActivityIndicatorView (3.0.7)
+  - KRProgressHUD (3.4.7):
+    - KRActivityIndicatorView (= 3.0.7)
+  - lottie-ios (3.5.0)
+  - MarqueeLabel (4.3.2)
+  - NotificationBannerSwift (3.2.1):
+    - MarqueeLabel (~> 4.3.0)
+    - SnapKit (~> 5.6.0)
+  - R.swift (5.1.0):
+    - R.swift.Library (~> 5.1.0)
+  - R.swift.Library (5.1.0)
+  - SnapKit (5.6.0)
+  - StatusProvider (1.2.10)
+
+DEPENDENCIES:
+  - Alamofire
+  - CropViewController
+  - DropDown
+  - KDCircularProgress
+  - Kingfisher (~> 5.0)
+  - KRProgressHUD
+  - KRProgressHUD (~> 3.4.3)
+  - lottie-ios (~> 3.0)
+  - NotificationBannerSwift
+  - R.swift (~> 5.1.0)
+  - SnapKit
+  - StatusProvider
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - CropViewController
+    - DropDown
+    - KDCircularProgress
+    - Kingfisher
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - lottie-ios
+    - MarqueeLabel
+    - NotificationBannerSwift
+    - R.swift
+    - R.swift.Library
+    - SnapKit
+    - StatusProvider
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  CropViewController: 58fb440f30dac788b129d2a1f24cffdcb102669c
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  KDCircularProgress: 98200c6b8e85d22bc04eb644721d3b1e12b0686b
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  KRActivityIndicatorView: ad69e89c4ce40c986cf580595be4829dcad0e35a
+  KRProgressHUD: a248f0bc6c9c2aed40a37b76e03ffecc7f85c887
+  lottie-ios: c55158d67d0629a260625cc2ded2052b829e3c3e
+  MarqueeLabel: 15e524a6762552bb279cb17438b8a94990269fb9
+  NotificationBannerSwift: dce54ded532b26e30cd8e7f4d80e124a0f2ba7d1
+  R.swift: 8cbc4fc69b740305b6a17c8a8ed968eb788962d9
+  R.swift.Library: fa85ce1e0d0b7e818cd9e080df910ba54d2776cc
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  StatusProvider: 53f64deb452d619091b1a606a0973a724db17d0d
+
+PODFILE CHECKSUM: f1c96676e3b54d829bf634859d0002514779b456
+
+COCOAPODS: 1.12.1
