@@ -1,0 +1,15 @@
+[submodule "DNDCorePackage"]
+	path = DNDCorePackage
+	url = https://github.com/DeshNDezz/DNDCorePackage
+[submodule "DNDResources"]
+	path = DNDResources
+	url = https://github.com/DeshNDezz/DNDResources
+[submodule "PhotoLibraryMedia"]
+	path = PhotoLibraryMedia
+	url = https://github.com/DeshNDezz/PhotoLibraryMedia
+[submodule "VIPModule"]
+	path = VIPModule
+	url = https://github.com/DeshNDezz/VIPModule
+[submodule "NetworkLayer"]
+	path = NetworkLayer
+	url = https://github.com/DeshNDezz/NetworkLayer
